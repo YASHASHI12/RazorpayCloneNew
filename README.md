@@ -21,8 +21,8 @@ To run the website locally, you can follow these steps:
 # Credits
 The website design and content is based on the official Razorpay website, with some modifications to fit the scope of this project. The Tailwind CSS framework is used for styling and layout, with some custom CSS added for additional features.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+# To Visit a Site
+The following link is used to visit a Razorpay Clone site :- https://razorpay-clone-new-sandy.vercel.app/
 
 
 
